@@ -1,6 +1,6 @@
 # PyMOL Figure Skill
 
-Reusable ZCode skill for protein–ligand PyMOL figures.
+Skill for protein–ligand PyMOL figures.
 - Overall protein–ligand views
 - Local pocket and stick representations
 - Automatic and manual hydrogen-bond drawing
